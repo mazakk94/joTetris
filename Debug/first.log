@@ -1,0 +1,22 @@
+﻿Build started 2015-11-18 00:48:14.
+     1>Project "C:\Users\Mazi\Desktop\Projects\first\first\first.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files\Common Files\MSVC\freeglut\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt JoTetris.cpp klawiatura.cpp klocki.cpp Source.cpp spadanie.cpp strzaleczki.cpp
+         strzaleczki.cpp
+     1>c:\users\mazi\desktop\projects\first\first\procedurki.h(2): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
+         spadanie.cpp
+     1>c:\users\mazi\desktop\projects\first\first\procedurki.h(2): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
+         Source.cpp
+     1>c:\users\mazi\desktop\projects\first\first\source.cpp(1): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
+         klocki.cpp
+     1>c:\users\mazi\desktop\projects\first\first\procedurki.h(2): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
+         klawiatura.cpp
+     1>c:\users\mazi\desktop\projects\first\first\procedurki.h(2): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
+         JoTetris.cpp
+     1>c:\users\mazi\desktop\projects\first\first\procedurki.h(2): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\Mazi\Desktop\Projects\first\first\first.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.25
